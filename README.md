@@ -33,9 +33,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 
 
-![Asli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asli2024&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asli2024&layout=compact&theme=tokyonight)
-
 
 
 ---
