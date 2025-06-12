@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/62a8ce73-f13c-478c-b887-f6b4bbfc1cab)
 
 
-# Hi 👋🏾, I'm Asli Aden
+# Hi 👋🏾, I am Asli Aden
 
 ### A passionate cloud engineer from the United Kingdom ☁️
 
