@@ -1,16 +1,17 @@
-## Hi there 👋🏾 , I AM ASLI ADEN
 
+![image](https://github.com/user-attachments/assets/62a8ce73-f13c-478c-b887-f6b4bbfc1cab)
 
 
 # Hi 👋🏾, I'm Asli Aden
 
 ### A passionate cloud engineer from the United Kingdom ☁️
 
-- 🌱 I’m currently learning **AWS**, **Terraform**, **GitHub**, **Python**, and **Networking**
+💡 I specialize in building secure and automated cloud infrastructure using AWS, Terraform, GitHub, and Python, with a strong foundation in cloud networking.
 - 🔐 Projects: [github.com/Asli2024](https://github.com/Asli2024)
 - 📬 Reach me: [ashleyaden4u@hotmail.com](mailto:ashleyaden4u@hotmail.com)
 - ⚡ Fun fact: *Former nurse and midwife turned cloud engineer*
 
+<img width="393" alt="Screenshot 2025-06-12 at 22 54 22" src="https://github.com/user-attachments/assets/6985a727-b52b-4e8f-9f16-25188f03ccef" />
 
 
 ### 🧠 Connect with me:
@@ -28,15 +29,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
 
 ---
 
-### 📈 GitHub Stats
-
-![Asli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asli2022&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asli2022&layout=compact&theme=tokyonight)
 
 ---
 
