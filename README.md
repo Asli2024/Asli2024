@@ -6,7 +6,8 @@
 
 ### A passionate cloud engineer from the United Kingdom ☁️
 
-💡 I specialize in building secure and automated cloud infrastructure using AWS, Terraform, GitHub, and Containers, with a strong foundation in cloud networking.
+💡 I build secure, scalable, and automated infrastructure on AWS using Terraform, GitHub Actions, and containerization tools like Docker and Kubernetes.
+
 - 🔐 Projects: [github.com/Asli2024](https://github.com/Asli2024)
 - 📬 Reach me: [ashleyaden4u@hotmail.com](mailto:ashleyaden4u@hotmail.com)
 - ⚡ Fun fact: *Former nurse and midwife turned cloud engineer*
@@ -31,6 +32,11 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 
 
+![Asli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asli2024&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asli2024&layout=compact&theme=tokyonight)
+
+
+
 ---
 
 
@@ -38,4 +44,6 @@
 
 ### 🧮 Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Asli2024&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Asli2024&label=Profile%20views&color=0e75b6&style=flat)
+
+
