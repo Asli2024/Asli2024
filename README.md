@@ -4,7 +4,7 @@
 
 # Hi 👋🏾, I am Asli Aden
 
-### A passionate cloud engineer from the United Kingdom ☁️
+### ☁️ Cloud engineer focused on building secure, automated, and resilient infrastructure using modern DevOps tools.
 
 💡 I build secure, scalable, and automated infrastructure on AWS using Terraform, GitHub Actions, and containerization tools like Docker and Kubernetes.
 
