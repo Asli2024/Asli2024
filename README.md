@@ -6,7 +6,7 @@
 
 ### A passionate cloud engineer from the United Kingdom ☁️
 
-💡 I specialize in building secure and automated cloud infrastructure using AWS, Terraform, GitHub, and Python, with a strong foundation in cloud networking.
+💡 I specialize in building secure and automated cloud infrastructure using AWS, Terraform, GitHub, and Containers, with a strong foundation in cloud networking.
 - 🔐 Projects: [github.com/Asli2024](https://github.com/Asli2024)
 - 📬 Reach me: [ashleyaden4u@hotmail.com](mailto:ashleyaden4u@hotmail.com)
 - ⚡ Fun fact: *Former nurse and midwife turned cloud engineer*
