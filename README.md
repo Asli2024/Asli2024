@@ -4,9 +4,10 @@
 
 # Hi 👋🏾, I am Asli Aden
 
+
+
 ### ☁️ Cloud engineer focused on building secure, automated, and resilient infrastructure using modern DevOps tools.
 
-💡 I build secure, scalable, and automated infrastructure on AWS using Terraform, GitHub Actions, and containerization tools like Docker and Kubernetes.
 
 - 🔐 Projects: [github.com/Asli2024](https://github.com/Asli2024)
 - 📬 Reach me: [ashleyaden4u@hotmail.com](mailto:ashleyaden4u@hotmail.com)
